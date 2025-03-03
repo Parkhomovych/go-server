@@ -1,3 +1,3 @@
-module go-server
+module first-go-server
 
 go 1.24.0
